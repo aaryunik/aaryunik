@@ -1,12 +1,12 @@
 <h1 align="center">Nikhil Kulkarni</h1>
 <p align="center"><code>protein engineering</code> · <code>quantum computing</code> · <code>deep learning</code></p>
-<p align="center">cs + applied math @ cornell engineering '27 · ithaca, ny</p>
+<p align="center">CS + Applied Math @ Cornell Engineering '27 · Ithaca, NY</p>
 
 ---
 
-i work at the intersection of computational biology, deep learning, and quantum computing. currently building ml-guided protein design pipelines, ta for data science for engineers (ece 2720) at cornell, and training attention-based captioning models.
+I work at the intersection of computational biology, deep learning, and quantum computing. Currently building ML-guided protein design pipelines, TA for Data Science for Engineers (ECE 2720) at Cornell, and training attention-based captioning models.
 
-spirit of ramanujan fellow. tata scholar. cane scholar. instructor @ vijnan manthan. ta for raising a mathematician, epsilon india, program in algorithmic and combinatorial thinking (pact)
+Spirit of Ramanujan Fellow. Tata Scholar. Cane Scholar. Instructor @ Vijnan Manthan. TA for Raising a Mathematician, Epsilon India, Program in Algorithmic and Combinatorial Thinking (PACT).
 
 ---
 
@@ -46,17 +46,17 @@ spirit of ramanujan fellow. tata scholar. cane scholar. instructor @ vijnan mant
 
 ---
 
-**quantum tda for crash prediction**&ensp;·&ensp;mit iquhack, moody's track
-<br>built a quantum-topological pipeline using qpe in qiskit to estimate betti numbers on 10 years of s&p 500 data. pushed crash prediction f1 from 48% to 60%.
+**Quantum TDA for Crash Prediction**&ensp;·&ensp;MIT iQuHACK, Moody's Track
+<br>Built a quantum-topological pipeline using QPE in Qiskit to estimate Betti numbers on 10 years of S&P 500 data. Pushed crash prediction F1 from 48% to 60%.
 
-**trapped ion simulation**&ensp;·&ensp;katz lab, cornell applied physics
-<br>added electrode potential mapping to the ionsimulation repo and contributed features to the duke artiq extensions (dax) library.
+**Trapped Ion Simulation**&ensp;·&ensp;Katz Lab, Cornell Applied Physics
+<br>Added electrode potential mapping to the IonSimulation repo and contributed features to the Duke ARTIQ Extensions (DAX) library.
 
-**qrng classification**&ensp;·&ensp;yquantum, yale quantum institute
-<br>designed 4 ml algorithms (svm, autocorrelation, random forests, knn) to classify quantum vs. pseudorandom numbers. 2nd place under dorahacks track.
+**QRNG Classification**&ensp;·&ensp;YQuantum, Yale Quantum Institute
+<br>Designed 4 ML algorithms (SVM, Autocorrelation, Random Forests, KNN) to classify quantum vs. pseudorandom numbers. 2nd place under DoraHacks track.
 
-**nba salary analysis**&ensp;·&ensp;cornell orie
-<br>created a player value metric that outperformed 15 existing metrics for predicting salaries across 300+ players.
+**NBA Salary Analysis**&ensp;·&ensp;Cornell ORIE
+<br>Created a Player Value Metric that outperformed 15 existing metrics for predicting salaries across 300+ players.
 
 ---
 
