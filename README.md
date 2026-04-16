@@ -1,12 +1,12 @@
-<h1 align="center">nikhil kulkarni</h1>
+<h1 align="center">Nikhil Kulkarni</h1>
 <p align="center"><code>protein engineering</code> · <code>quantum computing</code> · <code>deep learning</code></p>
-<p align="center">cs + applied math @ cornell engineering '27 · nashik, india → ithaca, ny</p>
+<p align="center">cs + applied math @ cornell engineering '27 · ithaca, ny</p>
 
 ---
 
-i work at the intersection of computational biology, deep learning, and quantum computing. currently building ml-guided protein design pipelines, taing data science for engineers (ece 2720), and training attention-based captioning models.
+i work at the intersection of computational biology, deep learning, and quantum computing. currently building ml-guided protein design pipelines, ta for data science for engineers (ece 2720) at cornell, and training attention-based captioning models.
 
-spirit of ramanujan fellow. tata scholar. taught math and quantum information across india and mongolia for 4+ years. president of cornell chai club.
+spirit of ramanujan fellow. tata scholar. cane scholar. instructor @ vijnan manthan. ta for raising a mathematician, epsilon india, program in algorithmic and combinatorial thinking (pact)
 
 ---
 
